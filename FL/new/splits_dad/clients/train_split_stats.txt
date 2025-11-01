@@ -1,0 +1,12 @@
+IID TRAIN Split Statistics
+==================================================
+Total samples: 1277
+Total positive: 449
+Total negative: 828
+Overall pos ratio: 0.352
+
+Client 0: 254 samples (89 pos, 165 neg, ratio=0.350)
+Client 1: 254 samples (89 pos, 165 neg, ratio=0.350)
+Client 2: 254 samples (89 pos, 165 neg, ratio=0.350)
+Client 3: 254 samples (89 pos, 165 neg, ratio=0.350)
+Client 4: 261 samples (93 pos, 168 neg, ratio=0.356)
